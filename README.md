@@ -1,8 +1,5 @@
 # AutoAI: build & use AI agents
 
-[![Discord Follow](https://dcbadge.vercel.app/api/server/autoai?style=flat)](https://discord.gg/autoai) &ensp;
-[![Twitter Follow](https://img.shields.io/twitter/follow/Auto_AI?style=social)](https://twitter.com/Auto_AI) &ensp;
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **AutoAI** is a generalist LLM based AI agent that can autonomously accomplish minor tasks. 
 
