@@ -1,0 +1,4 @@
+{
+  "workspace": {"input":  "auto_ai_workspace", "output": "auto_ai_workspace"},
+  "host": "http://localhost:8000"
+}

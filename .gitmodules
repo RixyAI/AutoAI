@@ -1,0 +1,3 @@
+[submodule "autoai/tests/vcr_cassettes"]
+	path = autoai/tests/vcr_cassettes
+	url = https://github.com/RixyAI/auto-ai-test-cassettes
